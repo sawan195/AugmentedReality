@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "augmented-reality"
+    }
+  },
+  "defaultProject": "augmented-reality",
+  "cli": {
+    "analytics": false
+  }
 }
